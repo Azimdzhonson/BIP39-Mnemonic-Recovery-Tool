@@ -19,7 +19,7 @@ try:
 
     # Частично известная мнемоника (пример 12 слов)
     partial_mnemonic = [
-        None, None, None, None
+        None, None, None, None,
         None, None, None, None,
         None, None, None, None
     ]
